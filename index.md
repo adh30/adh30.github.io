@@ -90,7 +90,7 @@ var fun = function lang(l) {
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
 ### Medium image
-![Palmer] (./assets/images/Palmer Early Morning1.jpg)
+![Palmer](./assets/images/Palmer%20Early%20Morning1.jpg)
 
 ### Large image
 
