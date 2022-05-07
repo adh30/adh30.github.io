@@ -98,13 +98,13 @@ var fun = function lang(l) {
 
 <dl>
 <dt>Name</dt>
-<dd>Godzilla</dd>
+<dd>Stephen Hales</dd>
 <dt>Born</dt>
-<dd>1952</dd>
+<dd>17 September 1677</dd>
+<dt>Dies</dt>
+<dd>4 January 1761
 <dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
+<dd>Bekesbourne</dd>
 </dl>
 
 ```
