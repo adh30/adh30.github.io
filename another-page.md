@@ -8,6 +8,7 @@ description: This is just another page
 
 _nothing to see here - still growing_
 
-![Growing](https://giphy.com/gifs/days-plant-growth-txCo7WXCwZpmM")
+![octocat](https://github.githubassets.com/images/icons/emoji/octocat.png))
+
 
 [back](./)
