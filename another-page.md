@@ -8,6 +8,6 @@ description: This is just another page
 
 _nothing to see here - still growing_
 
-![Growing](https://giphy.com/gifs/days-plant-growth-txCo7WXCwZpmM"
+![Growing](https://giphy.com/gifs/days-plant-growth-txCo7WXCwZpmM")
 
 [back](./)
