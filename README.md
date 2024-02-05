@@ -10,7 +10,7 @@ My research interests include haemodynamics, wave intensity analysis,  blood pre
 
 I am currently also Head of the Department of [Population Science & Experimental Medicine](https://www.ucl.ac.uk/cardiovascular/research/research-department-population-science-and-experimental-medicine) in [UCL Institute of Cardiovascular Science](https://www.ucl.ac.uk/cardiovascular/ucl-institute-cardiovascular-science), Director of the British Heart Foundation 4-year PhD programme at UCL, and Associate Director of the [MRC Unit for Lifelong Health and Ageing at UCL](https://www.ucl.ac.uk/cardiovascular/research/population-science-and-experimental-medicine/mrc-unit-lifelong-health-and-ageing-ucl).
 
-Previously I worked at [Imperial College London](https://www.imperial.ac.uk/) as a Professor of Clinical Pharmacology.
+Previously I worked at [Imperial College London](https://www.imperial.ac.uk/) as a Professor of Clinical Pharmacology in the National Heart & Lung Institute.
 
 ### 📫Get in touch
 
