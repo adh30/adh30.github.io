@@ -1,9 +1,8 @@
 ---
 layout: page
-title: project 3
+title: Adult peak circulatory capacity in the Avon Longitudinal Study of Parents and Children (ALSPAC): mechanisms and exposures (ACME)
 description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+img: assets/img/ACME-big3.jpg
 importance: 3
 category: work
 ---
