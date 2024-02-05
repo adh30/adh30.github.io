@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>UCL</a>.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Room 504, Floor 5</p>
+    <p>University College London, 1 - 19 Torrington Place,</p>
+    <p>London, WC1E 7HB</p>
 
 news: true # includes a list of news items
 latest_posts: true # includes a list of the newest posts
@@ -19,7 +19,13 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm Professor of Cardiovascular Physiology and Pharmacology at UCL
+
+My research interests include haemodynamics, wave intensity analysis, blood pressure and cardiovascular health.
+
+I am currently also Head of the Department of Population Science & Experimental Medicine in UCL Institute of Cardiovascular Science, Director of the British Heart Foundation 4-year PhD programme at UCL, and Associate Director of the MRC Unit for Lifelong Health and Ageing at UCL.
+
+Previously I worked at Imperial College London as a Professor of Clinical Pharmacology.`. 
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
