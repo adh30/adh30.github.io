@@ -1,0 +1,119 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Alun Hughes
+    - name: Date of Birth
+      value: 4th March 1959
+    - name: Languages
+      value: English
+
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD
+      institution: University of London, UK
+      year: 1988
+      description:
+        - Description 1.
+        - Description 2.
+        - title: Description 3.
+          contents:
+            - Sub-description 1.
+            - Sub-description 2.
+    - title: MB BS
+      institution: St Mary's Hospital Medical School, London, UK
+      year: 1983
+      description:
+        - Description 1.
+        - Description 2.
+    - title: BSc
+      institution: University of London, UK
+      year: 1980
+      description:
+        - Description 1.
+        - Description 2.
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Professor of Cardiovascular Physiology & Pharmacology
+      institution: Institute of Cardiovascular Science, UCL
+      year: 2013 - 
+      description:
+        - Description 1.
+        - Description 2.
+        - title: Description 3.
+          contents:
+            - Sub-description 1.
+            - Sub-description 2.
+    - title: Honorary Clinical Professor
+      institution: University College Hospital London
+      year: 2013- 
+      description:
+        - Description 1.
+        - Description 2.
+    - title: Visiting Professor
+      institution: University of Aarhus, Denmark 
+      year: 2009- 
+      description:
+        - Description 1.
+        - Description 2.
+    - title: Honorary Professor
+      institution: National Heart & Lung Institute, Imperial College London 
+      year: 2013- 
+      description:
+        - Description 1.
+        - Description 2.  
+     - title: Visiting Professor
+      institution: Menzies Institute for Medical Research, University of Tasmania, Australia
+      year: 2017 
+      description:
+        - Description 1.
+        - Description 2.    
+    -  title: Professor of Clinical Pharmacology
+      institution: National Heart & Lung Institute, Imperial College London
+      year: 2000 - 2013
+      description:
+        - Description 1.
+        - Description 2.
+        - title: Description 3.
+          contents:
+            - Sub-description 1.
+            - Sub-description 2.
+
+- title: Open Source Projects
+  type: time_table
+  contents:
+    - title: <a href="https://github.com/adh30/Sphygmocor-Reservoir">Sphygmocor-Reservoir</a>
+      year: 2014-now
+      description: Reservoir-excess pressure analysis of blood pressure waveform.
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 1980
+      items:
+        - Huggett Memorial Prize
+    - year: 1983
+      items:
+        - De Rothschild Prize
+   - year: 1998
+      items:
+        - International Society for Hypertension (ISH) Prize
+        
+- title: Academic Interests
+  type: nested_list
+  contents:
+    - title: Haemodynamics
+      items:
+        - Wave intensity
+        - Arterio-ventricular interactions
+    - title: Blood pressure
+      items:
+        - Description 1.
+        - Description 2.
+    - title: Cardiovascular health
+      items:
+        - Cardiovascular health across the lifecourse 
+        - Early determinants of cardiovascular health
