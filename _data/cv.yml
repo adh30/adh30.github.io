@@ -71,7 +71,7 @@
       description:
         - Description 1.
         - Description 2.    
-    -  - title: Professor of Clinical Pharmacology
+    -  title: Professor of Clinical Pharmacology
       institution: National Heart & Lung Institute, Imperial College London
       year: 2000 - 2013
       description:
@@ -82,7 +82,7 @@
             - Sub-description 1.
             - Sub-description 2.
 
- - title: Open Source Projects
+- title: Open Source Projects
   type: time_table
   contents:
     - title: <a href="https://github.com/adh30/Sphygmocor-Reservoir">Sphygmocor-Reservoir</a>
@@ -116,4 +116,4 @@
     - title: Cardiovascular health
       items:
         - Cardiovascular health across the lifecourse 
-        - Early determinants of cardiovascular health    
+        - Early determinants of cardiovascular health
