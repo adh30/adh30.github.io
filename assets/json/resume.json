@@ -48,20 +48,5 @@
       "awarder": "International Society of Hypertension",
       "url": "",
       "summary": "For work on calcium and the vasculature"
-    }],
- "publications": [{
-      "name": "Calcium channel blockers",
-      "title" "Hypertension"
-      "publisher": "Elsevier",
-      "releaseDate": "2024-01-01",
-    }],
-      
-  "projects": [{
-      "name": "Southall and Brent Revisited",
-      "summary": "TBA",
-      "highlights": ["Cardiometabolic disease", "Ethnicity"],
-      "startDate": "1989-01-01",
-      "endDate": "2020-01-01",
-      "url": "https://www.sabrestudy.org/"
     }]
 }
