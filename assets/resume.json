@@ -1,0 +1,86 @@
+{
+  "basics": {
+    "name": "Alun Hughes",
+    "label": "Scientist",
+    "image": "",
+    "email": "alun.hughes@ucl.ac.uk",
+    "phone": "",
+    "url": "",
+    "summary": "",
+    "location": {
+      "address": "1-19 Torrington Place",
+      "postalCode": "WC1E 7HB",
+      "city": "London",
+      "countryCode": "UK",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "AlbertEinstein",
+        "url": "https://twitter.com/AlbertEinstein"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Institute of Cardiovascular Science, University College London",
+      "position": "Professor of Cardiovascular Physiology and Pharmacology",
+      "url": "https://profiles.ucl.ac.uk/40880-alun-hughes",
+      "startDate": "01-08-2013",
+      "endDate": "",
+      "summary": "",
+      "highlights": [""]
+    }
+  ],
+   ],
+  "education": [
+    {
+      "institution": "University of London",
+      "location": "London, UK",
+      "url": "",
+      "area": "Pharmacology",
+      "studyType": "PhD",
+      "startDate": "1985",
+      "endDate": "1988",
+      }
+  ],
+  "awards": [
+    {
+      "title": "International Society of Hypertension Prize",
+      "date": "1998",
+      "awarder": "International Society of Hypertension",
+      "url": "",
+      "summary": "For work on calcium and the vasculature"
+    }
+  ],
+ "publications": [
+    {
+      "name": "Calcium channel blockers",
+      "title" "Hypertension"
+      "publisher": "Elsevier",
+      "releaseDate": "2024-01-01",
+    },
+      "references": [
+    {
+      "name": "Professor John Doe",
+      "icon": "fa-solid fa-laptop",
+      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+    },
+    {
+      "name": "Professor John Doe",
+      "icon": "fa-solid fa-thumbtack",
+      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Southall and Brent Revisited",
+      "summary": "TBA",
+      "highlights": ["Cardiometabolic disease", "Ethnicity"],
+      "startDate": "1989-01-01",
+      "endDate": "2020-01-01",
+      "url": "https://www.sabrestudy.org/"
+    }
+  ]
+}
