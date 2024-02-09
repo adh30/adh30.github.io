@@ -1,7 +1,7 @@
 ---
 layout: page
 title: VIrtual Twins as tools for personalised clinicAL care (VITAL)
-description: Southall and Brent Revisited
+description: Not commenced yet
 img: assets/img/EU.jpg
 importance: 2
 category: work
