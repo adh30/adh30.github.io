@@ -1,9 +1,9 @@
 ---
 layout: page
-title: SABRE
+title: VIrtual Twins as tools for personalised clinicAL care (VITAL)
 description: Southall and Brent Revisited
-img: assets/img/SABRE_new.jpg
-importance: 1
+img: assets/img/EU.jpg
+importance: 2
 category: work
 related_publications: true
 ---
