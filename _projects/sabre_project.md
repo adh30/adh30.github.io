@@ -1,7 +1,7 @@
 ---
 layout: page
-title: SABRE
-description: Southall and Brent Revisited
+title: Southall and Brent Revisited (SABRE) Study
+description:  The SABRE study started over 30 years ago between 1988 and 1991. The study was set up at University College London (UCL) to study health in mid-life in a group of nearly 5000 people of European, South Asian and African or African Caribbean origins. Study participants were selected at random from the GP practices and workplaces in the London boroughs of Brent and Southall. Further details are available at [SABRE Study](https://www.sabrestudy.org/)
 img: assets/img/SABRE_new.jpg
 importance: 3
 category: work
