@@ -1,7 +1,5 @@
 # About me
 
-\
-
 ![Stata](https://img.shields.io/badge/Stata-Expert-green)
 ![MATLAB](https://img.shields.io/badge/MATLAB-Intermediate-yellow)
 
