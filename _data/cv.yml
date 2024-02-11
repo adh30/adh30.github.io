@@ -15,10 +15,12 @@
       institution: University of London
       year: 1980
       description: Physiology 1st class honours
+
     - title: MB BS
       institution: St Mary's Hospital, London
       year: 1983
       description: Medicine
+
     - title: PhD
       institution: University of London
       year: 1988
@@ -30,21 +32,27 @@
     - title: Professor of Cardiovascular Physiology and Pharmacology
       institution: University College London
       year: 2013 - 
+
     - title: Honorary Clinical Professor, University College Hospital London	
       institution: University College Hospital London
       year: 2013 - 
+
     - title: Head of Department
       institution: Population Science & Experimental Medicine, UCL
       year: 2017 -
+
     - title: Associate Director 
       institution: MRC Unit for Lifelong Health and Ageing at UCL
       year: 2017 - 2024
+
     - title: Visiting Professor
       institution: Department of Pharmacology, University of Aarhus, Denmark 
       year: 2009
+
     - title: Visiting Professor
       institution: Menzies Institute for Medical Research, University of Tasmania, Australia
       year: 2017  
+
     - title: Honorary Professor 
       institution: National Heart & Lung Institute, Imperial College London, UK	
       year: 2013 - 
@@ -62,29 +70,33 @@
     - year: 1980
       items:
         - Huggett Memorial Prize
+
     - year: 1983
       items:
         - De Rothschild Prize Prize    
+
     - year: 1988
       items:
         - International Society for Hypertension (ISH) Prize
+
     - year: 2006
       items:
         - Fujian Provincial Government Research Prize
+
         
 - title: Academic Interests
   type: nested_list
   contents:
     - title: Haemodynamics
       items:
-        - Description 1.
-        - Description 2.
+        - Wave intensity
+        - Pulse wave and reservoir analysis
+        - Arterial stiffness
+    
+    - title: Blood pressure
+      items:
+        - Life course trajectories and risk
+
     - title: Cardiometabolic health
       items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> History, Gardening
+        - Heart brain interactions
