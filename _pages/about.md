@@ -21,7 +21,7 @@ social: true # includes social icons at the bottom of the page
 
 I'm Professor of Cardiovascular Physiology and Pharmacology at UCL
 
-My research interests include haemodynamics, wave intensity analysis, blood pressure and cardiovascular health.
+My research interests include haemodynamics, wave intensity analysis, blood pressure and cardiometabolic health.
 
 I am currently also Head of the Department of Population Science & Experimental Medicine in UCL Institute of Cardiovascular Science, Director of the British Heart Foundation 4-year PhD programme at UCL, and Associate Director of the MRC Unit for Lifelong Health and Ageing at UCL.
 
