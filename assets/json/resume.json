@@ -27,7 +27,8 @@
       "startDate": "01-08-2018",
       "endDate": "",
       "summary": "Head of Department of Population Science & Experimental Medicine",
-      }],
+      }]
+    },
   "education": [{
       "institution": "University of London",
       "location": "London, UK",
@@ -35,6 +36,17 @@
       "studyType": "PhD",
       "startDate": "1985",
       "endDate": "1988",
+      "institution": "University of London",
+      "location": "London, UK",
+      "area": "Physiology",
+      "studyType": "BSc",
+      "endDate": "1980",
+      "institution": "St Mary's Hospital Medical School",
+      "location": "London, UK",
+      "area": "Medicine",
+      "studyType": "MB BS",
+      "startDate": "1977",
+      "endDate": "1983",
       }],
   "awards": [{
       "title": "International Society of Hypertension Prize",
