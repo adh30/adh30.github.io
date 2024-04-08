@@ -10,5 +10,3 @@ related_publications: true
 Funded by the British Heart Foundation.
 
 ```
-
-{% endraw %}
