@@ -1,7 +1,7 @@
 ---
 layout: page
-title: VIrtual Twins as tools for personalised clinicAL care (VITAL)
-description: VITAL will deliver a comprehensive, clinically validated, multi-scale, multi-organ modelling platform that is driven by and can represent individual patient data acquired both in the clinic and from wearable technology. 
+title: vital
+description: VIrtual Twins as tools for personalised clinicAL care (VITAL) will deliver a comprehensive, clinically validated, multi-scale, multi-organ modelling platform that is driven by and can represent individual patient data acquired both in the clinic and from wearable technology. 
 img: assets/img/vital.png
 importance: 2
 category: work
