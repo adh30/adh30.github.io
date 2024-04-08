@@ -1,7 +1,7 @@
 ---
 layout: page
-title: The National Survey of Health and Development (NSHD)
-description:  The oldest and longest running of the British birth cohort studies.
+title: NSHD
+description:  The National Survey of Health and Development (NSHD) is oldest and longest running of the British birth cohort studies. Further details are available at https://nshd.mrc.ac.uk/
 img: assets/img/LHAc1.jpg
 importance: 4
 category: work
