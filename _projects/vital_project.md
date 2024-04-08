@@ -2,7 +2,7 @@
 layout: page
 title: VIrtual Twins as tools for personalised clinicAL care (VITAL)
 description: Not commenced yet
-img: assets/img/EU.jpg
+img: assets/img/vital.png
 importance: 2
 category: work
 related_publications: true
