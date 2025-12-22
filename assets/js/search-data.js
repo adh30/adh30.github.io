@@ -496,6 +496,26 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-acme",
+          title: 'acme',
+          description: "Adult peak Circulatory capacity in the avon longitudinal study of parents and children - Mechanisms and Exposures",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/acme_project/";
+            },},{id: "projects-nshd",
+          title: 'NSHD',
+          description: "The National Survey of Health and Development (NSHD) is oldest and longest running of the British birth cohort studies. Further details are available at https://nshd.mrc.ac.uk/",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/nshd_project/";
+            },},{id: "projects-sabre",
+          title: 'sabre',
+          description: "The Southall and Brent Revisited (SABRE) study started over 30 years ago between 1988 and 1991. The study was set up to study health in mid-life in a group of nearly 5000 people of European, South Asian and African or African Caribbean heritage. Further details are available at https://www.sabrestudy.org/",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/sabre_project/";
+            },},{id: "projects-vital",
+          title: 'vital',
+          description: "VIrtual Twins as tools for personalised clinicAL care (VITAL) will deliver a comprehensive, clinically validated, multi-scale, multi-organ modelling platform that is driven by and can represent individual patient data acquired both in the clinic and from wearable technology.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/vital_project/";
             },},{
         id: 'social-cv',
         title: 'CV',
