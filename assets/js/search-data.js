@@ -479,13 +479,6 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/vital_project/";
             },},{
-        id: 'social-arxiv',
-        title: 'arXiv',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://arxiv.org/a/40880-alun-hughes.html", "_blank");
-        },
-      },{
         id: 'social-bluesky',
         title: 'Bluesky',
         section: 'Socials',
