@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I'm Professor of Cardiovascular Physiology and Pharmacology at UCL and Head of the Research Department of Population Science & Experimental Medicine in the UCL Institute of Cardiovascular Science. I also lead the Heart-Brain Theme of the [BHF Centre of Research Excellence](https://www.ucl.ac.uk/population-health-sciences/cardiovascular/research/bhf-centre-research-excellence) at UCL. 
+I'm Professor of Cardiovascular Physiology and Pharmacology at UCL and Head of the Research Department of Population Science & Experimental Medicine in the UCL Institute of Cardiovascular Science. I also lead the Heart-Brain Theme of the [BHF Centre of Research Excellence](https://www.ucl.ac.uk/population-health-sciences/cardiovascular/research/bhf-centre-research-excellence) at UCL.
 
 My research interests include haemodynamics, wave intensity analysis, blood pressure and cardiometabolic health.
 

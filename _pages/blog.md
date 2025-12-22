@@ -16,7 +16,15 @@ pagination:
     after: 3 # The number of links after the current page
 ---
 
+{% capture post_div %}
+{% raw %}
+{% capture post_div %}
 <div class="post">
+{% endcapture %}
+{{ post_div | markdownify }}
+{% endraw %}
+{% endcapture %}
+{{ post_div | markdownify }}
 
 {% assign blog_name_size = site.blog_name | size %}
 {% assign blog_description_size = site.blog_description | size %}
