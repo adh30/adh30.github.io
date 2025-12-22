@@ -5,9 +5,7 @@ CodeCV:
       - name: Full Name
         value: Alun Hughes
       - name: Date of Birth
-        value: 
-      - name: Languages
-        value: English
+        value: 4th March 1959
 
   - title: Education
     type: time_table
@@ -15,17 +13,18 @@ CodeCV:
       - title: BSc
         institution: University of London
         year: 1980
-        description: Physiology 1st class honours
-
+        description:
+          - Physiology 1st class honours
       - title: MB BS
         institution: St Mary's Hospital, London
         year: 1983
-        description: Medicine
-
+        description:
+          - Medicine
       - title: PhD
         institution: University of London
         year: 1988
-        description: Pharmacology
+        description:
+          - Pharmacology
         
   - title: Experience
     type: time_table
@@ -38,13 +37,13 @@ CodeCV:
         institution: University College Hospital London
         year: 2013 - 
 
-      - title: Head of Department
+      - title: Head of Research Department
         institution: Population Science & Experimental Medicine, UCL
         year: 2017 -
 
       - title: Associate Director 
         institution: MRC Unit for Lifelong Health and Ageing at UCL
-        year: 2017 - 2024
+        year: 2017 - 2025
 
       - title: Visiting Professor
         institution: Department of Pharmacology, University of Aarhus, Denmark 
@@ -61,7 +60,8 @@ CodeCV:
   - title: Open Source Projects
     type: time_table
     contents:
-      - title: <a href="https://github.com/</a>
+      - title: Open Source Project
+        link: https://github.com/
         year: 2015-now
         description: Excess and reservoir pressure estimation
 
