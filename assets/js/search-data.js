@@ -483,7 +483,7 @@ ninja.data = [{
         title: 'arXiv',
         section: 'Socials',
         handler: () => {
-          window.open("https://arxiv.org/a/https://profiles.ucl.ac.uk/40880-alun-hughes.html", "_blank");
+          window.open("https://arxiv.org/a/40880-alun-hughes.html", "_blank");
         },
       },{
         id: 'social-bluesky',
@@ -532,7 +532,7 @@ ninja.data = [{
         title: 'Open Science Framework',
         section: 'Socials',
         handler: () => {
-          window.open("https://osf.io/https://osf.io/2mpkr//", "_blank");
+          window.open("https://osf.io/2mpkr/", "_blank");
         },
       },{
         id: 'social-rss',
