@@ -1,99 +1,87 @@
 - title: General Information
-    type: map
-    contents:
-      - name: Full Name
-        value: Alun Hughes
-      - name: Date of Birth
-        value: 4th March 1959
+  type: map
+  contents:
+    - name: Full Name
+      value: Alun Hughes
+    - name: Date of Birth
+      value: 4th March 1959
 
-  - title: Education
-    type: time_table
-    contents:
-      - title: BSc
-        institution: University of London
-        year: 1980
-        description:
-          - Physiology 1st class honours
-      - title: MB BS
-        institution: St Mary's Hospital, London
-        year: 1983
-        description:
-          - Medicine
-      - title: PhD
-        institution: University of London
-        year: 1988
-        description:
-          - Pharmacology
-        
-  - title: Experience
-    type: time_table
-    contents:
-      - title: Professor of Cardiovascular Physiology and Pharmacology
-        institution: University College London
-        year: 2013 - 
+- title: Education
+  type: time_table
+  contents:
+    - title: BSc
+      institution: University of London
+      year: 1980
+      description:
+        - Physiology 1st class honours
+    - title: MB BS
+      institution: St Mary's Hospital, London
+      year: 1983
+      description:
+        - Medicine
+    - title: PhD
+      institution: University of London
+      year: 1988
+      description:
+        - Pharmacology
 
-      - title: Honorary Clinical Professor, University College Hospital London	
-        institution: University College Hospital London
-        year: 2013 - 
+- title: Experience
+  type: time_table
+  contents:
+    - title: Professor of Cardiovascular Physiology and Pharmacology
+      institution: University College London
+      year: 2013 -
+    - title: Honorary Clinical Professor, University College Hospital London
+      institution: University College Hospital London
+      year: 2013 -
+    - title: Head of Research Department
+      institution: Population Science & Experimental Medicine, UCL
+      year: 2017 -
+    - title: Associate Director
+      institution: MRC Unit for Lifelong Health and Ageing at UCL
+      year: 2017 - 2025
+    - title: Visiting Professor
+      institution: Department of Pharmacology, University of Aarhus, Denmark
+      year: 2009
+    - title: Visiting Professor
+      institution: Menzies Institute for Medical Research, University of Tasmania, Australia
+      year: 2017
+    - title: Honorary Professor
+      institution: National Heart & Lung Institute, Imperial College London, UK
+      year: 2013 -
 
-      - title: Head of Research Department
-        institution: Population Science & Experimental Medicine, UCL
-        year: 2017 -
-
-      - title: Associate Director 
-        institution: MRC Unit for Lifelong Health and Ageing at UCL
-        year: 2017 - 2025
-
-      - title: Visiting Professor
-        institution: Department of Pharmacology, University of Aarhus, Denmark 
-        year: 2009
-
-      - title: Visiting Professor
-        institution: Menzies Institute for Medical Research, University of Tasmania, Australia
-        year: 2017  
-
-      - title: Honorary Professor 
-        institution: National Heart & Lung Institute, Imperial College London, UK	
-        year: 2013 - 
-
-  - title: Open Source Project
+- title: Open Source Project
   link: https://github.com/
   year: 2015
   description: Excess and reservoir pressure estimation
-  
-  - title: Honors and Awards
-    type: time_table
-    contents:
-      - year: 1980
-        items:
-          - Huggett Memorial Prize
 
-      - year: 1983
-        items:
-          - De Rothschild Prize Prize    
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 1980
+      items:
+        - Huggett Memorial Prize
+    - year: 1983
+      items:
+        - De Rothschild Prize Prize
+    - year: 1988
+      items:
+        - International Society for Hypertension (ISH) Prize
+    - year: 2006
+      items:
+        - Fujian Provincial Government Research Prize
 
-      - year: 1988
-        items:
-          - International Society for Hypertension (ISH) Prize
-
-      - year: 2006
-        items:
-          - Fujian Provincial Government Research Prize
-
-        
-  - title: Academic Interests
-    type: nested_list
-    contents:
-      - title: Haemodynamics
-        items:
-          - Wave intensity
-          - Pulse wave and reservoir analysis
-          - Arterial stiffness
-    
-      - title: Blood pressure
-        items:
-          - Life course trajectories and risk
-
-      - title: Cardiometabolic health
-        items:
-          - Heart brain interactions
+- title: Academic Interests
+  type: nested_list
+  contents:
+    - title: Haemodynamics
+      items:
+        - Wave intensity
+        - Pulse wave and reservoir analysis
+        - Arterial stiffness
+    - title: Blood pressure
+      items:
+        - Life course trajectories and risk
+    - title: Cardiometabolic health
+      items:
+        - Heart brain interactions
