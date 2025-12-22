@@ -56,14 +56,11 @@
         institution: National Heart & Lung Institute, Imperial College London, UK	
         year: 2013 - 
 
-  - title: Open Source Projects
-    type: time_table
-    contents:
-      - title: Open Source Project
-        link: https://github.com/
-        year: 2015
-        description: Excess and reservoir pressure estimation
-
+  - title: Open Source Project
+  link: https://github.com/
+  year: 2015
+  description: Excess and reservoir pressure estimation
+  
   - title: Honors and Awards
     type: time_table
     contents:
