@@ -29,7 +29,7 @@
       "url": "https://profiles.ucl.ac.uk/40880-alun-hughes",
       "startDate": "01-08-2018",
       "endDate": "",
-      "summary": "Head of Department of Population Science & Experimental Medicine"
+      "summary": "Head of Research Department of Population Science & Experimental Medicine"
       }
     ],
   "education": [
@@ -45,7 +45,8 @@
     "institution": "University of London",
       "location": "London, UK",
       "area": "Physiology",
-      "studyType": "BSc",
+      "studyType": "Intercalated BSc",
+      "startDate": "1979",
       "endDate": "1980"
     },
     {
@@ -88,3 +89,4 @@
     }
   ]
 }
+
