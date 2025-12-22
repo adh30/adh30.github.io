@@ -6,7 +6,7 @@
 #  organization: UCL # your organization as appears in the subdomain
 #  username:  AlbertEinstein # your username
 # acm_id: # your dl.acm.org/profile/id
-arxiv_id: https://profiles.ucl.ac.uk/40880-alun-hughes # your arXiv author ID
+arxiv_id: 40880-alun-hughes # your arXiv author ID
 # blogger_url: # your blogger URL
 bluesky_url: https://bsky.app/profile/adh30.bsky.social # your bluesky URL
 # cv_pdf: /assets/pdf/example_pdf.pdf # path to your CV PDF file
@@ -30,7 +30,7 @@ linkedin_username: alun-hughes-32147447 # your LinkedIn user name
 # mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 # medium_username: # your Medium username
 orcid_id: 0000-0001-5432-5271 # your ORCID ID
-osf_id: https://osf.io/2mpkr/ # your OSF ID
+osf_id: 2mpkr # your OSF ID
 # pinterest_id: # your pinterest id
 # publons_id: # your ID on Publons
 # quora_username: # your Quora username
