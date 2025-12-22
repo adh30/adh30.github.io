@@ -16,9 +16,9 @@
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "alundhughes30",
-        "url": "https://twitter.com/alundhughes30"
+        "network": "Bluesky",
+        "username": "@adh30.bsky.social",
+        "url": "https://bsky.app/profile/adh30.bsky.social"
       }
     ]
     },
@@ -89,4 +89,5 @@
     }
   ]
 }
+
 
