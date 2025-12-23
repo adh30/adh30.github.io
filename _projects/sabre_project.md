@@ -20,24 +20,6 @@ The SABRE study is a longitudinal cohort established to investigate cardiovascul
 Further details are available at  
 <a href="https://www.sabrestudy.org/" target="_blank" rel="noopener">https://www.sabrestudy.org/</a>
 
-## Study Assessments and Imaging
-
-<div class="row">
-  <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/1.jpg" title="Cardiovascular assessment in SABRE participants" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/3.jpg" title="Anthropometric and metabolic measurements" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/5.jpg" title="Imaging and life-course data" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-
-<div class="caption">
-  Examples of cardiovascular, metabolic, and imaging assessments collected in the SABRE cohort.
-</div>
-
 ## Scientific Contributions
 
 The SABRE study provides insights into:
@@ -53,3 +35,4 @@ Findings from SABRE have contributed to national and international guidelines fo
 </div>
 
 ## Key Publications
+
