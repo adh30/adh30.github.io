@@ -120,7 +120,7 @@ collections:
   news:
     output: false
   projects:
-    output: true
+    output: false
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
