@@ -41,7 +41,7 @@ repo_trophies:
 
 navbar_fixed: true
 footer_fixed: true
-search_enabled: true
+search_enabled: false
 socials_in_search: true
 posts_in_search: true
 bib_search: true
@@ -68,7 +68,7 @@ bing_site_verification: ""
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
-blog_name: "Alun's Blog"
+blog_name: "My Blog"
 blog_description: "a simple whitespace theme for academics"
 permalink: "/blog/:year/:title/"
 lsi: false
