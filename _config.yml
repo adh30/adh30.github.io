@@ -1,6 +1,3 @@
-Here’s your `_config.yml` updated with a proper `download_third_party` section integrated in the style of your existing file:
-
-```yaml
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
@@ -212,8 +209,3 @@ jsonresume:
 # -----------------------------------------------------------------------------
 download_third_party:
   files: []
-```
-
-This will prevent the `undefined method 'each' for nil` error.
-
-If you later want to actually download files, replace the empty array `[]` with the file entries as explained before.
