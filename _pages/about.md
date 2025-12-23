@@ -10,7 +10,8 @@ profile:
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>Room 504, Floor 5</p>
-    <p>University College London, 1 - 19 Torrington Place,</p>
+    <p>University College London,</p> 
+    <p> 1 - 19 Torrington Place,</p>
     <p>London, WC1E 7HB</p>
 
 news: true # includes a list of news items
