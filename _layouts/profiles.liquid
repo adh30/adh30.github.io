@@ -21,11 +21,11 @@ layout: page
             <div class="more-info">{{ profile.more_info }}</div>
           {% endif %}
         </div>
-
         <div class="clearfix">
           {% if profile.content %}
-            {% capture profile_content %}{% include_relative {{ profile.content }} %}{% endcapture %}
-            {{ profile_content | markdownify }}
+            {% capture profile_content_path %}{{ page.dir }}{{ profile.content }}{% endcapture %}
+            {% assign profile_content = site.pages | where: "path", profile_content_path | first %}
+            {{ profile_content.content | markdownify }}
           {% else %}
             {{ content }}
           {% endif %}
