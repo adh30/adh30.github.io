@@ -17,34 +17,9 @@ The study provides unparalleled life-course data spanning early development, soc
 Further details are available at  
 <a href="https://nshd.mrc.ac.uk/" target="_blank" rel="noopener">https://nshd.mrc.ac.uk/</a>
 
-## Cardiovascular phenotyping and circulatory capacity
-
-Our work within NSHD focuses on detailed cardiovascular and cardiopulmonary phenotyping, including measures of circulatory capacity, vascular structure and function, and their determinants across the life course. These data enable investigation of:
-
-- Early-life and mid-life determinants of cardiovascular ageing  
-- Associations between peak circulatory capacity and later-life cardiometabolic risk  
-- Mechanistic links between vascular function, physical capability, and clinical outcomes  
-
-## Imaging and physiological assessments
-
-<div class="row">
-  <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/1.jpg" title="Cardiovascular phenotyping in NSHD" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/3.jpg" title="Physiological assessment protocols" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/5.jpg" title="Life-course cardiovascular data" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-
-<div class="caption">
-  Examples of cardiovascular and physiological assessments contributing to life-course analyses within the NSHD.
-</div>
-
 ## Scientific impact
 
 The NSHD continues to play a central role in understanding how biological, social, and environmental factors across the lifespan shape cardiovascular health and ageing. Findings from this work inform prevention strategies, risk stratification, and policy relevant to healthy ageing in the general population.
 
 ## Key Publications
+
