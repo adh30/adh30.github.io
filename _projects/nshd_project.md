@@ -22,4 +22,3 @@ Further details are available at
 The NSHD continues to play a central role in understanding how biological, social, and environmental factors across the lifespan shape cardiovascular health and ageing. Findings from this work inform prevention strategies, risk stratification, and policy relevant to healthy ageing in the general population.
 
 ## Key Publications
-

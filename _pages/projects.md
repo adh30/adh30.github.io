@@ -12,21 +12,21 @@ horizontal: false
 <div class="projects">
   {% assign categories = site.enable_project_categories and page.display_categories | default: nil %}
 
-  {% if categories %}
-    {% assign projects_grouped = page.display_categories | map: "category" %}
-  {% else %}
-    {% assign projects_grouped = ["all"] %}
-  {% endif %}
+{% if categories %}
+{% assign projects_grouped = page.display_categories | map: "category" %}
+{% else %}
+{% assign projects_grouped = ["all"] %}
+{% endif %}
 
-  {% for category in projects_grouped %}
-    {% if category != "all" %}
-      <a id="{{ category }}" href="#{{ category }}">
-        <h2 class="category">{{ category }}</h2>
-      </a>
-      {% assign projects_to_show = site.projects | where: "category", category | sort: "importance" %}
-    {% else %}
-      {% assign projects_to_show = site.projects | sort: "importance" %}
-    {% endif %}
+{% for category in projects_grouped %}
+{% if category != "all" %}
+<a id="{{ category }}" href="#{{ category }}">
+<h2 class="category">{{ category }}</h2>
+</a>
+{% assign projects_to_show = site.projects | where: "category", category | sort: "importance" %}
+{% else %}
+{% assign projects_to_show = site.projects | sort: "importance" %}
+{% endif %}
 
     {% if page.horizontal %}
       <div class="container">
@@ -43,5 +43,7 @@ horizontal: false
         {% endfor %}
       </div>
     {% endif %}
-  {% endfor %}
+
+{% endfor %}
+
 </div>

@@ -12,10 +12,10 @@ related_publications: true
 
 The SABRE study is a longitudinal cohort established to investigate cardiovascular and metabolic health disparities in a multi-ethnic population in West London. Participants were recruited between 1988 and 1991 and have been followed over three decades, providing rich life-course data on:
 
-- Cardiovascular risk factors and outcomes  
-- Diabetes and metabolic health  
-- Lifestyle and social determinants of health  
-- Ethnic differences in disease prevalence and progression  
+- Cardiovascular risk factors and outcomes
+- Diabetes and metabolic health
+- Lifestyle and social determinants of health
+- Ethnic differences in disease prevalence and progression
 
 Further details are available at  
 <a href="https://www.sabrestudy.org/" target="_blank" rel="noopener">https://www.sabrestudy.org/</a>
@@ -24,9 +24,9 @@ Further details are available at
 
 The SABRE study provides insights into:
 
-- Ethnic differences in cardiometabolic risk and disease trajectories  
-- Early-life and mid-life determinants of cardiovascular disease  
-- Long-term patterns of glucose regulation, blood pressure, and obesity  
+- Ethnic differences in cardiometabolic risk and disease trajectories
+- Early-life and mid-life determinants of cardiovascular disease
+- Long-term patterns of glucose regulation, blood pressure, and obesity
 
 Findings from SABRE have contributed to national and international guidelines for cardiovascular and metabolic health, particularly in multi-ethnic populations.
 
@@ -35,4 +35,3 @@ Findings from SABRE have contributed to national and international guidelines fo
 </div>
 
 ## Key Publications
-
