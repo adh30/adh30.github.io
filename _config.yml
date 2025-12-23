@@ -2,10 +2,10 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: ""
-first_name: "Alun"
-middle_name: ""
-last_name: "Hughes"
+title: Professor
+first_name: Alun
+middle_name: D.
+last_name: Hughes
 contact_note: >
   The best way to contact me is by email.
 description: >
@@ -116,11 +116,9 @@ newsletter:
 # -----------------------------------------------------------------------------
 collections:
   books:
-    output: true
+    output: false
   news:
-    defaults:
-      layout: "post"
-    output: true
+    output: false
   projects:
     output: true
 
