@@ -1,30 +1,13 @@
 ---
-layout: page
-title: VITAL
-description: "Virtual Twins as tools for personalised clinical care (VITAL) delivers a comprehensive, clinically validated, multi-scale, multi-organ modelling platform representing individual patient data from clinical and wearable sources."
-img: "/assets/img/vital.png"
-importance: 2
-category: work
-related_publications: true
+title: "VITAL"
+subtitle: "Virtual Twins for personalised clinical care"
+date: 2025-01-01
+categories: ["Research", "Healthcare", "Modelling"]
+tags: ["virtual twins", "multi-scale modelling", "clinical"]
+image: "assets/img/vital.png"
+excerpt: "VITAL delivers a clinically validated, multi-scale modelling platform driven by individual patient data from clinical and wearable technology."
 ---
 
-## VITAL: Virtual Twins for Personalised Clinical Care
+VITAL (VIrtual Twins as tools for personalised clinicAL care) will deliver a comprehensive, clinically validated, multi-scale, multi-organ modelling platform that is driven by and can represent individual patient data acquired both in the clinic and from wearable technology.
 
-[VITAL](https://vital-horizoneurope.eu/) aims to develop a multi-scale, multi-organ modelling platform to support precision medicine by integrating patient-specific clinical measurements with wearable technology data. The platform allows for:
-
-- Personalized simulations of cardiovascular, metabolic, and physiological systems  
-- Predictive modeling for disease progression and treatment response  
-- Integration of longitudinal clinical data with real-time monitoring  
-
-The project aims to provide actionable insights for clinicians and researchers, enabling data-driven, individualized care strategies.
-
-## Clinical Applications
-
-- Supports personalized diagnosis and risk prediction  
-- Guides treatment planning and intervention strategies  
-- Provides an adaptable framework for research across multiple organ systems  
-
-
-## Key Publications and outputs
-
-- To be added
+Every project has a beautiful feature that brings together innovation, data, and patient-centered design.
