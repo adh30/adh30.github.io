@@ -68,7 +68,7 @@ bing_site_verification: ""
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
-blog_name: "Aluns Blog"
+blog_name: "Alun's Blog"
 blog_description: "a simple whitespace theme for academics"
 permalink: "/blog/:year/:title/"
 lsi: false
@@ -94,11 +94,11 @@ giscus:
   emit_metadata: 0
   lang: "en"
 
-disqus_shortname: "al-folio"
+disqus_shortname: "3948_Bohr"
 
 external_sources:
   - name: "medium.com"
-    rss_url: "https://medium.com/@al-folio/feed"
+    rss_url: "https://medium.com/@alun.hughes/feed"
   - name: "Google Blog"
     posts:
       - url: "https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/"
