@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught.
+title: Teaching
+description: My teaching contributions at UCL.
 nav: true
 nav_order: 6
 ---
