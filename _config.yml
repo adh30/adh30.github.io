@@ -205,7 +205,6 @@ jsonresume:
   - references
 
 # -----------------------------------------------------------------------------
-# Download 3rd-party files
+# Third-party libraries (for download-3rd-party plugin)
 # -----------------------------------------------------------------------------
-download_third_party:
-  files: []
+third_party_libraries: {}
