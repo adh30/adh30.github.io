@@ -7,7 +7,7 @@ subtitle: <a href='#'>University College London</a>.
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>Room 504, Floor 5</p>
     <p>University College London, 1 - 19 Torrington Place,</p>
