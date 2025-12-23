@@ -1,2 +1,2 @@
 # Force LF line endings, needed for Docker to work on Windows
-*.sh text eol=lf
+*.sh text eol=lf_layouts/profiles.liquid text eol=lf

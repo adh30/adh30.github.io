@@ -24,7 +24,7 @@ layout: page
         <div class="clearfix">
           {% if profile.content %}
             {% capture profile_content_path %}{{ page.dir }}{{ profile.content }}{% endcapture %}
-            {% assign profile_content = site.pages | where: "path", profile_content_path | first %}
+            {% assign profile_content = site.pages | where: 'path', profile_content_path | first %}
             {{ profile_content.content | markdownify }}
           {% else %}
             {{ content }}
