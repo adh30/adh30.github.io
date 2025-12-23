@@ -36,10 +36,6 @@ repo_trophies:
   theme_dark: "gitdimmed"
 
 # -----------------------------------------------------------------------------
-# RSS Feed
-# -----------------------------------------------------------------------------
-
-# -----------------------------------------------------------------------------
 # Layout
 # -----------------------------------------------------------------------------
 
@@ -82,4 +78,128 @@ pagination:
 
 related_blog_posts:
   enabled: true
-  max_related_
+  max_related: 5
+
+giscus:
+  repo: ""
+  repo_id: ""
+  category: "Comments"
+  category_id: ""
+  mapping: "title"
+  strict: 1
+  reactions_enabled: 1
+  input_position: "bottom"
+  dark_theme: "dark"
+  light_theme: "light"
+  emit_metadata: 0
+  lang: "en"
+
+disqus_shortname: "al-folio"
+
+external_sources:
+  - name: "medium.com"
+    rss_url: "https://medium.com/@al-folio/feed"
+  - name: "Google Blog"
+    posts:
+      - url: "https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/"
+        published_date: "2024-05-14"
+
+# -----------------------------------------------------------------------------
+# Newsletter
+# -----------------------------------------------------------------------------
+newsletter:
+  enabled: false
+  endpoint: ""
+
+# -----------------------------------------------------------------------------
+# Collections
+# -----------------------------------------------------------------------------
+collections:
+  books:
+    output: true
+  news:
+    defaults:
+      layout: "post"
+    output: true
+  projects:
+    output: true
+
+# -----------------------------------------------------------------------------
+# Jekyll settings
+# -----------------------------------------------------------------------------
+markdown: "kramdown"
+highlighter: "rouge"
+kramdown:
+  input: "GFM"
+  syntax_highlighter_opts:
+    css_class: "highlight"
+    span:
+      line_numbers: false
+    block:
+      line_numbers: false
+      start_line: 1
+
+include: ["_pages", "_scripts"]
+exclude:
+  - "bin/"
+  - "CONTRIBUTING.md"
+  - "CUSTOMIZE.md"
+  - "Dockerfile"
+  - "docker-compose.yml"
+  - "docker-compose-slim.yml"
+  - "FAQ.md"
+  - "Gemfile"
+  - "Gemfile.lock"
+  - "INSTALL.md"
+  - "LICENSE"
+  - "lighthouse_results/"
+  - "package.json"
+  - "package-lock.json"
+  - "_pages/about_einstein.md"
+  - "purgecss.config.js"
+  - "README.md"
+  - "readme_preview/"
+  - "vendor"
+keep_files:
+  - "CNAME"
+  - ".nojekyll"
+
+plugins:
+  - "jekyll-archives-v2"
+  - "jekyll-email-protect"
+  - "jekyll-feed"
+  - "jekyll-get-json"
+  - "jekyll-imagemagick"
+  - "jekyll-jupyter-notebook"
+  - "jekyll-link-attributes"
+  - "jekyll-minifier"
+  - "jekyll-paginate-v2"
+  - "jekyll-regex-replace"
+  - "jekyll/scholar"
+  - "jekyll-sitemap"
+  - "jekyll-tabs"
+  - "jekyll-terser"
+  - "jekyll-toc"
+  - "jekyll-twitter-plugin"
+  - "jemoji"
+
+# -----------------------------------------------------------------------------
+# Jekyll Get JSON
+# -----------------------------------------------------------------------------
+jekyll_get_json:
+  - data: "resume"
+    json: "assets/json/resume.json"
+
+jsonresume:
+  - basics
+  - work
+  - education
+  - publications
+  - projects
+  - volunteer
+  - awards
+  - certificates
+  - skills
+  - languages
+  - interests
+  - references
