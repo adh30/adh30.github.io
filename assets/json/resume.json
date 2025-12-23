@@ -2,23 +2,29 @@
   "basics": {
     "name": "Alun Hughes",
     "label": "Clinician Scientist",
-    "image": "",
     "email": "alun.hughes@ucl.ac.uk",
-    "phone": "",
     "url": "https://profiles.ucl.ac.uk/40880-alun-hughes",
-    "summary": "",
     "location": {
       "address": "1-19 Torrington Place",
       "postalCode": "WC1E 7HB",
       "city": "London",
-      "countryCode": "UK",
-      "region": ""
+      "countryCode": "UK"
     },
     "profiles": [
       {
         "network": "Bluesky",
-        "username": "@adh30.bsky.social",
+        "username": "adh30.bsky.social",
         "url": "https://bsky.app/profile/adh30.bsky.social"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "alun-hughes-32147447",
+        "url": "https://www.linkedin.com/in/alun-hughes-32147447/"
+      },
+      {
+        "network": "ORCID",
+        "username": "0000-0001-5432-5271",
+        "url": "https://orcid.org/0000-0001-5432-5271"
       }
     ]
   },
@@ -27,66 +33,57 @@
       "name": "Institute of Cardiovascular Science, University College London",
       "position": "Professor of Cardiovascular Physiology and Pharmacology",
       "url": "https://profiles.ucl.ac.uk/40880-alun-hughes",
-      "startDate": "01-08-2018",
-      "endDate": "",
+      "startDate": "2018-08-01",
       "summary": "Head of Department of Population Science & Experimental Medicine"
     }
   ],
   "education": [
     {
-      "institution": "University of London",
+      "institution": "St Mary's Hospital Medical School",
       "location": "London, UK",
-      "area": "Pharmacology",
-      "studyType": "PhD",
-      "startDate": "1985",
-      "endDate": "1988"
+      "area": "Medicine and Surgery",
+      "studyType": "MB BS",
+      "startDate": "1977-01-01",
+      "endDate": "1983-12-31"
     },
     {  
       "institution": "University of London",
       "location": "London, UK",
       "area": "Physiology",
       "studyType": "BSc",
-      "startDate": "1979",
-      "endDate": "1980"
+      "startDate": "1977-01-01",
+      "endDate": "1980-12-31"
     },
     {
-      "institution": "St Mary's Hospital Medical School",
+      "institution": "University of London",
       "location": "London, UK",
-      "area": "Medicine & Surgery",
-      "studyType": "MB BS",
-      "startDate": "1977",
-      "endDate": "1983"
+      "area": "Pharmacology",
+      "studyType": "PhD",
+      "startDate": "1985-01-01",
+      "endDate": "1988-12-31"
     }
   ],
   "awards": [
     {
       "title": "Huggett Memorial Prize",
-      "date": "1980",
-      "awarder": "St Mary's Hospital Medical School",
-      "url": "",
-      "summary": ""
+      "date": "1980-01-01",
+      "awarder": "St Mary's Hospital Medical School"
     },
     {
       "title": "De Rothschild Prize",
-      "date": "1983",
+      "date": "1983-01-01",
       "awarder": "St Mary's Hospital Medical School",
-      "url": "",
       "summary": "Pathology"
     },
     {
       "title": "International Society of Hypertension Prize",
-      "date": "1998",
+      "date": "1998-01-01",
       "awarder": "International Society of Hypertension",
-      "url": "",
       "summary": "For work on calcium and the vasculature"
     },
     {
       "title": "Fujian Provincial Government Research Prize",
-      "date": "2006",
-      "awarder": "",
-      "url": "",
-      "summary": ""
+      "date": "2006-01-01"
     }
   ]
 }
-
