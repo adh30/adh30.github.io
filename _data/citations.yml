@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-01-09'
+  last_updated: '2026-01-12'
 papers:
   r2Y54asAAAAJ:--QqW9QaJxsC:
     citations: 0
@@ -70,7 +70,7 @@ papers:
     title: "MOLECULAR AND CELLULAR PHARMACOLOGY-Effects of protein tyrosine kinase inhibitors on voltage-operated calcium channel currents in vascular smooth muscle cells and pp60c-src \u2026"
     year: '2000'
   r2Y54asAAAAJ:-nhnvRiOwuoC:
-    citations: 72
+    citations: 73
     title: Contrasting effect of different cardiothoracic operations on echocardiographic right ventricular long axis velocities, and implications for interpretation of post-operative values
     year: '2013'
   r2Y54asAAAAJ:-nitJThF3HwC:
@@ -170,7 +170,7 @@ papers:
     title: 3 Differences Between Human Resistance and Conduit Arteries
     year: '1987'
   r2Y54asAAAAJ:0kLwNjf3oFwC:
-    citations: 244
+    citations: 243
     title: Recent developments in near-infrared spectroscopy (NIRS) for the assessment of local skeletal muscle microvascular function and capacity to utilise oxygen
     year: '2016'
   r2Y54asAAAAJ:0m9iHBJCm-UC:
@@ -250,7 +250,7 @@ papers:
     title: 'The OUES, not the anaerobic threshold, discriminates between patients with cardiovascular disease over COPD: P434'
     year: '2014'
   r2Y54asAAAAJ:1SHMjVdekzgC:
-    citations: 42
+    citations: 43
     title: 'Associations between left ventricular dysfunction and brain structure and function: findings from the SABRE (Southall and Brent Revisited) study'
     year: '2017'
   r2Y54asAAAAJ:1YatL4jblGcC:
@@ -326,7 +326,7 @@ papers:
     title: Abnormal microvascular network geometry-The link between low birth weight and increased cardiovascular risk?
     year: '1996'
   r2Y54asAAAAJ:1yQoGdGgb4wC:
-    citations: 19
+    citations: 20
     title: Action of angiotensin II on DNA synthesis by human saphenous vein in organ culture
     year: '2000'
   r2Y54asAAAAJ:1yWc8FF-_SYC:
@@ -1042,7 +1042,7 @@ papers:
     title: 'Familial cardiomyopathy caused by a novel heterozygous mutation in the gene LMNA (c. 1434dupG): a cardiac MRI-augmented segregation study'
     year: '2019'
   r2Y54asAAAAJ:9eoid2dx0yAC:
-    citations: 69
+    citations: 70
     title: "Left atrial function in heart failure with mid-range ejection fraction differs from that of heart failure with preserved ejection fraction: a 2D speckle-tracking \u2026"
     year: '2019'
   r2Y54asAAAAJ:9m1HyXbb1KYC:
@@ -1089,10 +1089,6 @@ papers:
     citations: 237
     title: 'Reconstruction of blood flow patterns in a human carotid bifurcation: a combined CFD and MRI study'
     year: '2000'
-  r2Y54asAAAAJ:9yQbhGFszOQC:
-    citations: 0
-    title: GENOME-WIDE ASSOCIATION STUDY OF AORTIC STIFFNESS DERIVED FROM DEEP LEARNING IN CMR IMAGES OF 45 789 INDIVIDUALS IDENTIFIES LOCI LINKED WITH CELL-MATRIX STRUCTURE
-    year: '2025'
   r2Y54asAAAAJ:A-BsoCGn-i0C:
     citations: 1
     title: '456-P: The REMOVAL Trial: Effect of Metformin on Markers of Cardiometabolic Risk in Patients with Type 1 Diabetes'
@@ -1178,7 +1174,7 @@ papers:
     title: "Ethnic differences in hypertension management, medication use and blood pressure control in UK primary care, 2006\u20132019: a retrospective cohort study"
     year: '2023'
   r2Y54asAAAAJ:AubyX3KqGToC:
-    citations: 788
+    citations: 790
     title: 'Metabolite profiling and cardiovascular event risk: a prospective study of 3 population-based cohorts'
     year: '2015'
   r2Y54asAAAAJ:Aul-kAQHnToC:
@@ -1330,7 +1326,7 @@ papers:
     title: "741 Fine tuning interventricular and atrioventricular delay results in acute improvements in non\u2010invasive haemodynamics, in patients with biventricular pacing therapy"
     year: '2005'
   r2Y54asAAAAJ:C62MIdXOJf4C:
-    citations: 46
+    citations: 45
     title: Characterisation of ethnic differences in DNA methylation between UK-resident South Asians and Europeans
     year: '2022'
   r2Y54asAAAAJ:C85SAqxdp5kC:
@@ -1437,6 +1433,10 @@ papers:
     citations: 36
     title: Modulation of calcium channels in arterial smooth muscle cells by dihydropyridine enantiomers.
     year: '1993'
+  r2Y54asAAAAJ:D1NYUzbdKDgC:
+    citations: 0
+    title: "Estimation of maximal oxygen consumption and heart rate recovery using the Tecumseh sub-maximal step test and their relationship to cardiovascular risk factors (vol 18, pg 29 \u2026"
+    year: '2018'
   r2Y54asAAAAJ:D8YlkiboQ7MC:
     citations: 18
     title: Non-invasive assessment of ventriculo-arterial coupling using aortic wave intensity analysis combining central blood pressure and phase-contrast cardiovascular magnetic resonance
@@ -1734,7 +1734,7 @@ papers:
     title: 'Evaluation of miCRovascular rarefaction in vascUlar Cognitive Impairment and heArt faiLure (CRUCIAL): Study protocol for an observational study'
     year: '2023'
   r2Y54asAAAAJ:GYQ3uSOjhYkC:
-    citations: 24
+    citations: 23
     title: "The relationship between pubertal timing and markers of vascular and cardiac structure and function in men and women aged 60\u201364 years"
     year: '2019'
   r2Y54asAAAAJ:GYcXSSpN504C:
@@ -1830,7 +1830,7 @@ papers:
     title: Candesartan cilexetil & atenolol have different effects on common carotid artery remodelling in hypertension
     year: '2003'
   r2Y54asAAAAJ:HTTuFT0SUJcC:
-    citations: 134
+    citations: 135
     title: Cholesteryl ester transfer protein (CETP) as a drug target for cardiovascular disease
     year: '2021'
   r2Y54asAAAAJ:HVjPwkwF6E4C:
@@ -1874,7 +1874,7 @@ papers:
     title: 'Statin use is associated with reduced depressive symptoms in Europeans, but increased symptoms in ethnic minorities in the UK: an observational study'
     year: '2015'
   r2Y54asAAAAJ:HoRspIuzbTgC:
-    citations: 472
+    citations: 473
     title: 'Clinical characteristics with inflammation profiling of long COVID and association with 1-year recovery following hospitalisation in the UK: a prospective observational study'
     year: '2022'
   r2Y54asAAAAJ:HqhvjgTjE9cC:
@@ -1950,7 +1950,7 @@ papers:
     title: Use of simultaneous pressure and velocity measurements to estimate arterial wave speed at a single site in humans
     year: '2006'
   r2Y54asAAAAJ:I_OEG5jR2MkC:
-    citations: 328
+    citations: 329
     title: 'Accuracy of cuff-measured blood pressure: systematic reviews and meta-analyses'
     year: '2017'
   r2Y54asAAAAJ:Ic1VZgkJnDsC:
@@ -1966,7 +1966,7 @@ papers:
     title: 'Cardiopulmonary Fitness, Skeletal Muscle Oxidative Capacity And Microvascular Function In People Living With Long Covid Compared With Healthy Controls: 2494'
     year: '2023'
   r2Y54asAAAAJ:IjCSPb-OGe4C:
-    citations: 512
+    citations: 513
     title: "Evidence of a dominant backward-propagating \u201Csuction\u201D wave responsible for diastolic coronary filling in humans, attenuated in left ventricular hypertrophy"
     year: '2006'
   r2Y54asAAAAJ:IjboPtdrXSsC:
@@ -1986,7 +1986,7 @@ papers:
     title: The effect of elective percutaneous coronary intervention on coronary haemodynamics and microvascular function
     year: '2008'
   r2Y54asAAAAJ:ItS6wXKKYxIC:
-    citations: 42
+    citations: 43
     title: "Socioeconomic inequalities in prevalence and development of multimorbidity across adulthood: a longitudinal analysis of the MRC 1946 national survey of health and development \u2026"
     year: '2021'
   r2Y54asAAAAJ:IwXakaVRskQC:
@@ -2058,7 +2058,7 @@ papers:
     title: 'Cardiovascular risk factors and white matter hyperintensities: difference in susceptibility in South Asians compared with Europeans'
     year: '2018'
   r2Y54asAAAAJ:J_g5lzvAfSwC:
-    citations: 54
+    citations: 55
     title: The antimitogenic action of the sulphated polysaccharide fucoidan differs from heparin in human vascular smooth muscle cells
     year: '2002'
   r2Y54asAAAAJ:JdL-Xu2nR38C:
@@ -2102,7 +2102,7 @@ papers:
     title: EXPRESSION OF THE TISSUE RENIN-ANGIOTENSIN SYSTEM IN HUMAN VASCULAR SMOOTH MUSCLE CELLS (VSMC'S) IN CULTURE
     year: '2009'
   r2Y54asAAAAJ:K9-4cgGIE-YC:
-    citations: 19
+    citations: 20
     title: Impact of afterload and infiltration on coexisting aortic stenosis and transthyretin amyloidosis
     year: '2022'
   r2Y54asAAAAJ:KG0AXYY1ICoC:
@@ -2138,7 +2138,7 @@ papers:
     title: 'Correction: Lipoprotein signatures of cholesteryl ester transfer protein and HMG-CoA reductase inhibition'
     year: '2020'
   r2Y54asAAAAJ:KPAPMsW7zc0C:
-    citations: 170
+    citations: 171
     title: 'Mechanisms of myocardial ischemia in hypertrophic cardiomyopathy: insights from wave intensity analysis and magnetic resonance'
     year: '2016'
   r2Y54asAAAAJ:KS-xo-ZNxMsC:
@@ -2214,7 +2214,7 @@ papers:
     title: Involvement of KCNQ K channels in hypoxic vasodilatation in porcine coronary arteries
     year: '2012'
   r2Y54asAAAAJ:L6IYSZFZHv4C:
-    citations: 13
+    citations: 12
     title: "Joint modeling of individual trajectories, within-individual variability, and a later outcome: systolic blood pressure through childhood and left ventricular mass in early \u2026"
     year: '2021'
   r2Y54asAAAAJ:L7CI7m0gUJcC:
@@ -2394,7 +2394,7 @@ papers:
     title: "Genetic variants in PPARGC1B and CNTN4 are associated with thromboxane A2 formation and with cardiovascular event free survival in the Anglo-Scandinavian Cardiac Outcomes Trial \u2026"
     year: '2018'
   r2Y54asAAAAJ:MXK_kJrjxJIC:
-    citations: 146
+    citations: 147
     title: Quantification of topological changes in retinal vascular architecture in essential and malignant hypertension
     year: '2006'
   r2Y54asAAAAJ:M_kvx10cXRcC:
@@ -2590,7 +2590,7 @@ papers:
     title: The cardiovascular magnetic resonance phenotype of lamin heart disease
     year: '2025'
   r2Y54asAAAAJ:ODjpEOEbvwMC:
-    citations: 8
+    citations: 9
     title: A short review of application of near-infrared spectroscopy (NIRS) for the assessment of microvascular post-occlusive reactive hyperaemia (PORH) in skeletal muscle
     year: '2024'
   r2Y54asAAAAJ:OGzII2o-8q4C:
@@ -2766,7 +2766,7 @@ papers:
     title: 'A Novel in Vitro Model of Conditionally Immortalized Human Vascular Smooth Muscle Cells: A Tool for Aging Studies'
     year: '2000'
   r2Y54asAAAAJ:PoYW0sSLWnUC:
-    citations: 16
+    citations: 17
     title: Higher aircraft noise exposure is linked to worse heart structure and function by cardiovascular MRI
     year: '2025'
   r2Y54asAAAAJ:Pq77ox9vBIIC:
@@ -2826,7 +2826,7 @@ papers:
     title: 'Bayesian dynamic network modelling: an application to metabolic associations in cardiovascular diseases'
     year: '2024'
   r2Y54asAAAAJ:QVtou7C4vgoC:
-    citations: 643
+    citations: 644
     title: Endothelial von Willebrand factor regulates angiogenesis
     year: '2011'
   r2Y54asAAAAJ:QYdC8u9Cj1oC:
@@ -3066,7 +3066,7 @@ papers:
     title: Endothelium-dependent relaxation in isolated human arteries and veins.
     year: '1987'
   r2Y54asAAAAJ:SeFeTyx0c_EC:
-    citations: 276
+    citations: 277
     title: "Tissue Doppler E/E\u2032 ratio is a powerful predictor of primary cardiac events in a hypertensive population: an ASCOT substudy"
     year: '2010'
   r2Y54asAAAAJ:SgM-ki2adj0C:
@@ -3418,7 +3418,7 @@ papers:
     title: 'Fluid structure interaction of patient specific abdominal aortic aneurysms: a comparison with solid stress models'
     year: '2006'
   r2Y54asAAAAJ:WA45sZwi3PYC:
-    citations: 96
+    citations: 95
     title: An activated-platelet-sensitive nanocarrier enables targeted delivery of tissue plasminogen activator for effective thrombolytic therapy
     year: '2019'
   r2Y54asAAAAJ:WA5NYHcadZ8C:
@@ -3686,7 +3686,7 @@ papers:
     title: "Microcirculatory rarefaction in South Asians\u2014a potential mechanism for increased cardiovascular risk and diabetes"
     year: '2013'
   r2Y54asAAAAJ:YOrU8YsttWoC:
-    citations: 64
+    citations: 63
     title: Fibrinogen-mimicking, multiarm nanovesicles for human thrombus-specific delivery of tissue plasminogen activator and targeted thrombolytic therapy
     year: '2021'
   r2Y54asAAAAJ:YOwf2qJgpHMC:
@@ -3742,7 +3742,7 @@ papers:
     title: DNA methylation, cardio metabolic risk and type 2 diabetes in south Asians and Europeans
     year: '2013'
   r2Y54asAAAAJ:Z2iGxuZITJ0C:
-    citations: 9
+    citations: 10
     title: 'Accelerated vascular ageing after COVID-19 infection: the CARTESIAN study'
     year: '2025'
   r2Y54asAAAAJ:Z2pNflN8LBoC:
@@ -3758,7 +3758,7 @@ papers:
     title: 'Reliability of left ventricular dyssynchrony indices by threedimensional speckletracking echocardiography: the impact of intentional impairment of image quality'
     year: '2019'
   r2Y54asAAAAJ:ZHo1McVdvXMC:
-    citations: 41
+    citations: 42
     title: 'Carotid geometry reconstruction: a comparison between MRI and ultrasound'
     year: '2003'
   r2Y54asAAAAJ:ZIdC2dHBkmAC:
@@ -3786,7 +3786,7 @@ papers:
     title: "Commentary:\u2018On the cards\u2019: Collective investigation of disease and medical life histories in the nineteenth century"
     year: '2013'
   r2Y54asAAAAJ:ZYsTHYU9jrMC:
-    citations: 333
+    citations: 334
     title: Differences in smoking associated DNA methylation patterns in South Asians and Europeans
     year: '2014'
   r2Y54asAAAAJ:Zbx7W2Xs4QsC:
@@ -4026,7 +4026,7 @@ papers:
     title: 133DEPRESSIVE SYMPTOMS ARE ASSOCIATED WITH PERCEIVED, NOT OBJECTIVE, EXERTION DURING EXERCISE IN EUROPEAN, INDIAN ASIAN AND AFRICAN-CARIBBEAN GROUPS
     year: '2019'
   r2Y54asAAAAJ:amtGwOyh6YUC:
-    citations: 39
+    citations: 40
     title: Prognostic value of pulmonary transit time and pulmonary blood volume estimation using myocardial perfusion CMR
     year: '2021'
   r2Y54asAAAAJ:anC-K-6lZLwC:
@@ -4170,7 +4170,7 @@ papers:
     title: Is carotid artery intima-media thickening a reliable marker of early atherosclerosis?
     year: '2002'
   r2Y54asAAAAJ:cG02Yo24cw4C:
-    citations: 133
+    citations: 134
     title: Conventional heart failure therapy in cardiac ATTR amyloidosis
     year: '2023'
   r2Y54asAAAAJ:cGKb4UeYxKMC:
@@ -4510,7 +4510,7 @@ papers:
     title: Indian Asian men have less peripheral arterial disease than European men for equivalent levels of coronary disease
     year: '2007'
   r2Y54asAAAAJ:fQNAKQ3IYiAC:
-    citations: 113
+    citations: 114
     title: Computational analysis of oxygen transport in the retinal arterial network
     year: '2009'
   r2Y54asAAAAJ:fbc8zXXH2BUC:
@@ -4554,7 +4554,7 @@ papers:
     title: REPRODUCIBILITY OF LEFT VENTRICULAR ENDOCARDIAL AND EPICARDIAL ROTATION BY SPECKLE TRACKING IN ELDERLY INDIVIDUALS
     year: '2010'
   r2Y54asAAAAJ:g9YHGIZn7mcC:
-    citations: 66
+    citations: 67
     title: "High serum immunoglobulin G and M levels predict freedom from adverse cardiovascular events in hypertension: a nested case-control substudy of the anglo-scandinavian cardiac \u2026"
     year: '2016'
   r2Y54asAAAAJ:gBP6HvcyhVEC:
@@ -4646,7 +4646,7 @@ papers:
     title: TCT-620 Mean Hyperemic Flow is Not Increased Following Adenosine Administration in Physiologically Significant Lesions
     year: '2013'
   r2Y54asAAAAJ:hC7cP41nSMkC:
-    citations: 208
+    citations: 209
     title: 'Curvature and tortuosity of the superficial femoral artery: a possible risk factor for peripheral arterial disease'
     year: '2006'
   r2Y54asAAAAJ:hCrLmN-GePgC:
@@ -4894,11 +4894,11 @@ papers:
     title: Design of a bioreactor system for tissue engineering arteries
     year: '2006'
   r2Y54asAAAAJ:jToNXmjF0wsC:
-    citations: 5
+    citations: 4
     title: Cuff under pressure for greater accuracy
     year: '2020'
   r2Y54asAAAAJ:jaC1LMxLMucC:
-    citations: 4
+    citations: 5
     title: A guide to consumer-grade wearables in cardiovascular clinical care and population health for non-experts
     year: '2025'
   r2Y54asAAAAJ:jgBuDB5drN8C:
@@ -4926,7 +4926,7 @@ papers:
     title: 21 Proximal but not distal aortic stiffness explains blood pressure reduction associated with exercise training for a first time marathon
     year: '2018'
   r2Y54asAAAAJ:k-ciFsyH9-YC:
-    citations: 13
+    citations: 12
     title: Comparison between cuff-based and invasive systolic blood pressure amplification
     year: '2022'
   r2Y54asAAAAJ:k0eMxzHTHKYC:
@@ -5182,7 +5182,7 @@ papers:
     title: Do K-Ca channels and carbonic anhydrase play a role in thiazide-induced hyperglycaemia?
     year: '1995'
   r2Y54asAAAAJ:lpW5SGgfC70C:
-    citations: 693
+    citations: 696
     title: 'Physical, cognitive, and mental health impacts of COVID-19 after hospitalisation (PHOSP-COVID): a UK multicentre, prospective cohort study'
     year: '2021'
   r2Y54asAAAAJ:lsy6UsRH754C:
@@ -5274,7 +5274,7 @@ papers:
     title: Reservoir-excess pressure parameters independently predict cardiovascular events in individuals with type 2 diabetes
     year: '2021'
   r2Y54asAAAAJ:mrvMUY5VHa8C:
-    citations: 39
+    citations: 40
     title: Long-term association of ultra-short heart rate variability with cardiovascular events
     year: '2023'
   r2Y54asAAAAJ:mvPsJ3kp5DgC:
@@ -5290,7 +5290,7 @@ papers:
     title: Age-specific reference values for carotid arterial stiffness estimated by ultrasonic wall tracking
     year: '2020'
   r2Y54asAAAAJ:n3Ahz6dV9U4C:
-    citations: 113
+    citations: 115
     title: 'Device-measured physical activity and cardiometabolic health: the Prospective Physical Activity, Sitting, and Sleep (ProPASS) consortium'
     year: '2024'
   r2Y54asAAAAJ:n3vGvpFsckwC:
@@ -5302,7 +5302,7 @@ papers:
     title: 'Assessment of body composition in young adulthood and its associations to early changes in cardiovascular phenotypes: a cross-sectional study'
     year: '2024'
   r2Y54asAAAAJ:n8FNryW2AHIC:
-    citations: 123
+    citations: 124
     title: Hypertensive disorders of pregnancy and offspring cardiac structure and function in adolescence
     year: '2016'
   r2Y54asAAAAJ:nKPy-z2a6tsC:
@@ -5426,7 +5426,7 @@ papers:
     title: 3A. 2. Ethnic differences in central haemodynamics and central arterial stiffness
     year: '2013'
   r2Y54asAAAAJ:oNZyr7d5Mn4C:
-    citations: 26
+    citations: 27
     title: Left ventricular hypertrophy induced by aortic banding impairs relaxation of isolated coronary arteries
     year: '2007'
   r2Y54asAAAAJ:oP4RMhgCrzQC:
@@ -5442,7 +5442,7 @@ papers:
     title: Training for a first-time marathon reverses age-related aortic stiffening
     year: '2020'
   r2Y54asAAAAJ:oR80Mb6WnL8C:
-    citations: 427
+    citations: 429
     title: Genomic and phenotypic insights from an atlas of genetic effects on DNA methylation
     year: '2021'
   r2Y54asAAAAJ:oXKBmVzQOggC:
@@ -5714,7 +5714,7 @@ papers:
     title: 'Ahead of the curve: waveform analysis of blood pressure, reflection magnitude, and outcomes'
     year: '2014'
   r2Y54asAAAAJ:q_HmSUDeXG8C:
-    citations: 16
+    citations: 17
     title: "Adverse childhood experiences and the development of multimorbidity across adulthood\u2014a national 70-year cohort study"
     year: '2023'
   r2Y54asAAAAJ:qbqt7gslDFUC:
@@ -5742,11 +5742,11 @@ papers:
     title: Tissue Doppler E prime velocity and E/E prime predict 19-year cardiovascular mortality in hypertension
     year: '2021'
   r2Y54asAAAAJ:qkUee6Di_pUC:
-    citations: 13
+    citations: 12
     title: Identification of distinct arterial waveform clusters and a longitudinal evaluation of their clinical usefulness
     year: '2019'
   r2Y54asAAAAJ:ql9EF6h3GboC:
-    citations: 94
+    citations: 95
     title: 'Assessing the causal role of body mass index on cardiovascular health in young adults: Mendelian randomization and recall-by-genotype analyses'
     year: '2018'
   r2Y54asAAAAJ:qmtmRrLr0tkC:
@@ -5794,7 +5794,7 @@ papers:
     title: 'P-399: The effect of ageing, hypertension and its treatments on regional myocardial function'
     year: '2001'
   r2Y54asAAAAJ:rJwCU6kz4dkC:
-    citations: 39
+    citations: 40
     title: Apolipoprotein proteomics for residual lipid-related risk in coronary heart disease
     year: '2023'
   r2Y54asAAAAJ:rLGzs9wiiwIC:
@@ -5886,7 +5886,7 @@ papers:
     title: 'Correction: The UK Coronavirus Job Retention Scheme and diet, physical activity, and sleep during the COVID-19 pandemic: evidence from eight longitudinal population surveys'
     year: '2022'
   r2Y54asAAAAJ:s3s37ZINstAC:
-    citations: 19
+    citations: 20
     title: 'Association between multimorbidity and postoperative mortality in patients undergoing major surgery: a prospective study in 29 countries across Europe'
     year: '2024'
   r2Y54asAAAAJ:sA9dB-pw3HoC:
@@ -5918,7 +5918,7 @@ papers:
     title: Numerical modelling of oxygen transport in a human abdominal aortic aneurysm with intraluminal thrombus
     year: '2007'
   r2Y54asAAAAJ:sSrBHYA8nusC:
-    citations: 904
+    citations: 905
     title: "Development and validation of a new adenosine-independent index of stenosis severity from coronary wave\u2013intensity analysis: results of the ADVISE (ADenosine Vasodilator \u2026"
     year: '2012'
   r2Y54asAAAAJ:sTbExtt6UvsC:
@@ -5926,7 +5926,7 @@ papers:
     title: Cardiovascular disease recurrence and long-term mortality in a tri-ethnic British cohort
     year: '2021'
   r2Y54asAAAAJ:sULuYBl4uKQC:
-    citations: 286
+    citations: 287
     title: Circulating microRNA-122 is associated with the risk of new-onset metabolic syndrome and type 2 diabetes
     year: '2017'
   r2Y54asAAAAJ:sW3koLuhEv8C:
@@ -5982,7 +5982,7 @@ papers:
     title: 'Role of the metabolic profile in mediating the relationship between body mass index and left ventricular mass in adolescents: analysis of a prospective cohort study'
     year: '2020'
   r2Y54asAAAAJ:t0DfG5jI_n8C:
-    citations: 63
+    citations: 64
     title: Associations between high blood pressure and DNA methylation
     year: '2020'
   r2Y54asAAAAJ:t6usbXjVLHcC:
@@ -6102,7 +6102,7 @@ papers:
     title: "Arterial pulse wave dynamics after percutaneous aortic valve replacement: fall in coronary diastolic suction with increasing heart rate as a basis for angina symptoms in aortic \u2026"
     year: '2011'
   r2Y54asAAAAJ:u-x6o8ySG0sC:
-    citations: 446
+    citations: 447
     title: Blood flow and vessel mechanics in a physiologically realistic model of a human carotid arterial bifurcation
     year: '2000'
   r2Y54asAAAAJ:u0Mu_IsstPMC:
@@ -6114,7 +6114,7 @@ papers:
     title: Endogenous c-src regulates L-type calcium channels in vascular smooth muscle cells (VSMC)
     year: '1999'
   r2Y54asAAAAJ:u5HHmVD_uO8C:
-    citations: 3594
+    citations: 3593
     title: "Differential impact of blood pressure\u2013lowering drugs on central aortic pressure and clinical outcomes: principal results of the Conduit Artery Function Evaluation (CAFE) study"
     year: '2006'
   r2Y54asAAAAJ:u9iWguZQMMsC:
@@ -6426,7 +6426,7 @@ papers:
     title: 'Atorvastatin treatment is associated with less augmentation of the carotid pressure waveform in hypertension: a substudy of the Anglo-Scandinavian Cardiac Outcome Trial (ASCOT)'
     year: '2009'
   r2Y54asAAAAJ:wemvFa-GEFIC:
-    citations: 407
+    citations: 406
     title: 'Cardiovascular and metabolic effects of metformin in patients with type 1 diabetes (REMOVAL): a double-blind, randomised, placebo-controlled trial'
     year: '2017'
   r2Y54asAAAAJ:wkm4DBaukwsC:
@@ -6642,7 +6642,7 @@ papers:
     title: Ethnic differences in associations between blood pressure and stroke in South Asian and European men
     year: '2015'
   r2Y54asAAAAJ:zGdJYJv2LkUC:
-    citations: 31
+    citations: 30
     title: Gender-specific differences in myocardial deformation and aortic stiffness at rest and dobutamine stress
     year: '2012'
   r2Y54asAAAAJ:zLWjf1WUPmwC:
@@ -6658,7 +6658,7 @@ papers:
     title: Calcium channel blockers
     year: '2024'
   r2Y54asAAAAJ:zSm6S6IE-zAC:
-    citations: 1
+    citations: 2
     title: 'Long term health outcomes in people with diabetes 12 months after hospitalisation with COVID-19 in the UK: a prospective cohort study'
     year: '2025'
   r2Y54asAAAAJ:zUAj9J37osIC:
