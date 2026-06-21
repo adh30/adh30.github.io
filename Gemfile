@@ -8,4 +8,5 @@ group :jekyll_plugins do
   gem "jemoji"
   gem "feedjira"
   gem "httparty"
+  gem "css_parser"
 end
