@@ -1,8 +1,8 @@
 ---
 layout: page
 title: SABRE
-description: "The Southall and Brent Revisited (SABRE) study, started between 1988 and 1991, investigates health in mid-life in a multi-ethnic cohort of nearly 5000 participants of European, South Asian, and African or African Caribbean heritage."
-img: "/assets/img/SABRE_new.jpg"
+description: 'The Southall and Brent Revisited (SABRE) study, started between 1988 and 1991, investigates health in mid-life in a multi-ethnic cohort of nearly 5000 participants of European, South Asian, and African or African Caribbean heritage.'
+img: '/assets/img/SABRE_new.jpg'
 importance: 3
 category: work
 related_publications: true

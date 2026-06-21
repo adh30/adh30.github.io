@@ -2,9 +2,9 @@ name: Update Google Scholar Citations
 
 on:
   schedule:
-    - cron: "0 0 * * 1" # Monday
-    - cron: "0 0 * * 3" # Wednesday
-    - cron: "0 0 * * 5" # Friday
+    - cron: '0 0 * * 1' # Monday
+    - cron: '0 0 * * 3' # Wednesday
+    - cron: '0 0 * * 5' # Friday
   workflow_dispatch:
 
 jobs:
@@ -21,7 +21,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: "3.13"
+          python-version: '3.13'
 
       - name: Install dependencies
         run: |

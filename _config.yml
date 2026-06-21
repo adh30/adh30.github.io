@@ -4,7 +4,7 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Alun
-middle_name: ""
+middle_name: ''
 last_name: Hughes
 contact_note: >
   The best way to contact me is by email.
@@ -14,26 +14,26 @@ footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: "jekyll, jekyll-theme, academic-website, portfolio-website"
-lang: "en"
-icon: "⚛️"
+keywords: 'jekyll, jekyll-theme, academic-website, portfolio-website'
+lang: 'en'
+icon: '⚛️'
 
-url: "https://adh30.github.io"
-baseurl: ""
+url: 'https://adh30.github.io'
+baseurl: ''
 last_updated: true
-impressum_path: ""
+impressum_path: ''
 back_to_top: true
 
 # -----------------------------------------------------------------------------
 # Theme
 # -----------------------------------------------------------------------------
 
-repo_theme_light: "default"
-repo_theme_dark: "dark"
+repo_theme_light: 'default'
+repo_theme_dark: 'dark'
 repo_trophies:
   enabled: true
-  theme_light: "flat"
-  theme_dark: "gitdimmed"
+  theme_light: 'flat'
+  theme_dark: 'gitdimmed'
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -46,31 +46,31 @@ socials_in_search: true
 posts_in_search: true
 bib_search: true
 
-max_width: "930px"
+max_width: '930px'
 
 # -----------------------------------------------------------------------------
 # Open Graph & Schema.org
 # -----------------------------------------------------------------------------
 serve_og_meta: false
 serve_schema_org: false
-og_image: ""
+og_image: ''
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
 # -----------------------------------------------------------------------------
-google_analytics: ""
-cronitor_analytics: ""
-pirsch_analytics: ""
-openpanel_analytics: ""
-google_site_verification: ""
-bing_site_verification: ""
+google_analytics: ''
+cronitor_analytics: ''
+pirsch_analytics: ''
+openpanel_analytics: ''
+google_site_verification: ''
+bing_site_verification: ''
 
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
-blog_name: "My Blog"
-blog_description: "a simple whitespace theme for academics"
-permalink: "/blog/:year/:title/"
+blog_name: 'My Blog'
+blog_description: 'a simple whitespace theme for academics'
+permalink: '/blog/:year/:title/'
 lsi: false
 
 pagination:
@@ -81,35 +81,35 @@ related_blog_posts:
   max_related: 5
 
 giscus:
-  repo: ""
-  repo_id: ""
-  category: "Comments"
-  category_id: ""
-  mapping: "title"
+  repo: ''
+  repo_id: ''
+  category: 'Comments'
+  category_id: ''
+  mapping: 'title'
   strict: 1
   reactions_enabled: 1
-  input_position: "bottom"
-  dark_theme: "dark"
-  light_theme: "light"
+  input_position: 'bottom'
+  dark_theme: 'dark'
+  light_theme: 'light'
   emit_metadata: 0
-  lang: "en"
+  lang: 'en'
 
-disqus_shortname: "3948_Bohr"
+disqus_shortname: '3948_Bohr'
 
 external_sources:
-  - name: "medium.com"
-    rss_url: "https://medium.com/@alun.hughes/feed"
-  - name: "Google Blog"
+  - name: 'medium.com'
+    rss_url: 'https://medium.com/@alun.hughes/feed'
+  - name: 'Google Blog'
     posts:
-      - url: "https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/"
-        published_date: "2024-05-14"
+      - url: 'https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/'
+        published_date: '2024-05-14'
 
 # -----------------------------------------------------------------------------
 # Newsletter
 # -----------------------------------------------------------------------------
 newsletter:
   enabled: false
-  endpoint: ""
+  endpoint: ''
 
 # -----------------------------------------------------------------------------
 # Collections
@@ -125,42 +125,42 @@ collections:
 # -----------------------------------------------------------------------------
 # Jekyll settings
 # -----------------------------------------------------------------------------
-markdown: "kramdown"
-highlighter: "rouge"
+markdown: 'kramdown'
+highlighter: 'rouge'
 kramdown:
-  input: "GFM"
+  input: 'GFM'
   syntax_highlighter_opts:
-    css_class: "highlight"
+    css_class: 'highlight'
     span:
       line_numbers: false
     block:
       line_numbers: false
       start_line: 1
 
-include: ["_pages", "_scripts"]
+include: ['_pages', '_scripts']
 exclude:
-  - "bin/"
-  - "CONTRIBUTING.md"
-  - "CUSTOMIZE.md"
-  - "Dockerfile"
-  - "docker-compose.yml"
-  - "docker-compose-slim.yml"
-  - "FAQ.md"
-  - "Gemfile"
-  - "Gemfile.lock"
-  - "INSTALL.md"
-  - "LICENSE"
-  - "lighthouse_results/"
-  - "package.json"
-  - "package-lock.json"
-  - "_pages/about_einstein.md"
-  - "purgecss.config.js"
-  - "README.md"
-  - "readme_preview/"
-  - "vendor"
+  - 'bin/'
+  - 'CONTRIBUTING.md'
+  - 'CUSTOMIZE.md'
+  - 'Dockerfile'
+  - 'docker-compose.yml'
+  - 'docker-compose-slim.yml'
+  - 'FAQ.md'
+  - 'Gemfile'
+  - 'Gemfile.lock'
+  - 'INSTALL.md'
+  - 'LICENSE'
+  - 'lighthouse_results/'
+  - 'package.json'
+  - 'package-lock.json'
+  - '_pages/about_einstein.md'
+  - 'purgecss.config.js'
+  - 'README.md'
+  - 'readme_preview/'
+  - 'vendor'
 keep_files:
-  - "CNAME"
-  - ".nojekyll"
+  - 'CNAME'
+  - '.nojekyll'
 
 plugins:
   - jekyll-feed
