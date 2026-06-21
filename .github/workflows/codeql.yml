@@ -6,7 +6,7 @@ on:
   pull_request:
     branches: ["main"]
   schedule:
-    - cron: '32 7 * * 0'
+    - cron: "32 7 * * 0"
 
 env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
@@ -25,7 +25,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        language: [ "javascript-typescript" ]   # ✅ Keep only what you actually use
+        language: ["javascript-typescript"] # ✅ Keep only what you actually use
 
     steps:
       - name: Checkout repository
