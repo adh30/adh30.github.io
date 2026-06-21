@@ -170,19 +170,6 @@ plugins:
 # -----------------------------------------------------------------------------
 # Jekyll Get JSON
 # -----------------------------------------------------------------------------
-jsonresume:
-  - basics
-  - work
-  - education
-  - publications
-  - projects
-  - volunteer
-  - awards
-  - certificates
-  - skills
-  - languages
-  - interests
-  - references
 
 # -----------------------------------------------------------------------------
 # Third-party libraries (for download-3rd-party plugin)
