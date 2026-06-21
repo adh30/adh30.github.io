@@ -118,9 +118,9 @@ collections:
   books:
     output: false
   news:
-    output: false
+    output: true
   projects:
-    output: false
+    output: true
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
@@ -154,10 +154,7 @@ exclude:
   - "package.json"
   - "package-lock.json"
   - "_pages/about_einstein.md"
-  - "_pages/projects.md"
-  - "_pages/dropdown.md"
-  - "_pages/profiles.md"
-  - "purgecss.config.js"
+   - "purgecss.config.js"
   - "README.md"
   - "readme_preview/"
   - "vendor"
@@ -166,31 +163,13 @@ keep_files:
   - ".nojekyll"
 
 plugins:
-  - "jekyll-archives-v2"
-  - "jekyll-email-protect"
-  - "jekyll-feed"
-  - "jekyll-get-json"
-  - "jekyll-imagemagick"
-  - "jekyll-jupyter-notebook"
-  - "jekyll-link-attributes"
-  - "jekyll-minifier"
-  - "jekyll-paginate-v2"
-  - "jekyll-regex-replace"
-  - "jekyll/scholar"
-  - "jekyll-sitemap"
-  - "jekyll-tabs"
-  - "jekyll-terser"
-  - "jekyll-toc"
-  - "jekyll-twitter-plugin"
-  - "jemoji"
+  - jekyll-feed
+  - jekyll-sitemap
+  - jemoji
 
 # -----------------------------------------------------------------------------
 # Jekyll Get JSON
 # -----------------------------------------------------------------------------
-jekyll_get_json:
-  - data: "resume"
-    json: "assets/json/resume.json"
-
 jsonresume:
   - basics
   - work
