@@ -10,4 +10,5 @@ group :jekyll_plugins do
   gem "httparty"
   gem "css_parser"
   gem "jekyll-twitter-plugin"
+  gem "jekyll-toc"
 end
