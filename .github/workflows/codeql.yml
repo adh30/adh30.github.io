@@ -39,7 +39,6 @@ jobs:
           # incremental disabled to avoid disk errors
           # (optional but recommended)
           # default is fine, but explicitly disabling:
-          config-file: .github/codeql/config.yml
 
       - name: Perform CodeQL Analysis
         uses: github/codeql-action/analyze@v4
