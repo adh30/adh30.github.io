@@ -9,4 +9,5 @@ group :jekyll_plugins do
   gem "feedjira"
   gem "httparty"
   gem "css_parser"
+  gem "jekyll-twitter-plugin"
 end
