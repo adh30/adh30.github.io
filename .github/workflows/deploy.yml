@@ -29,18 +29,16 @@ jobs:
         with:
           python-version: '3.13'
 
-      - name: Install Jupyter
+      - name: Install Jupyter and make it globally available
         run: |
           pip install nbconvert jupyter
-          echo "$(python -m site --user-base)/bin" >> $GITHUB_PATH
-          echo "$(dirname $(which jupyter))" >> $GITHUB_PATH
+          sudo ln -sf $(which jupyter) /usr/local/bin/jupyter
+          jupyter --version
 
       - run: bundle install
 
       - name: Build Jekyll
-        run: |
-          export PATH="$(dirname $(which jupyter)):$PATH"
-          bundle exec jekyll build
+        run: bundle exec jekyll build
 
       - uses: actions/upload-pages-artifact@v3
         with:
