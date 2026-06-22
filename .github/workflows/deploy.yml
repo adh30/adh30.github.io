@@ -22,18 +22,7 @@ jobs:
       - uses: ruby/setup-ruby@v1
         with:
           ruby-version: "3.3"
-          bundler-cache: true
-
-      - name: Setup Python 🐍
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.13'
-
-      - name: Install Jupyter and make it globally available
-        run: |
-          pip install nbconvert jupyter
-          sudo ln -sf $(which jupyter) /usr/local/bin/jupyter
-          jupyter --version
+          bundler-cache: false
 
       - run: bundle install
 
