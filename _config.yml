@@ -169,6 +169,7 @@ plugins:
   - jekyll-toc
   - jekyll-jupyter-notebook
   - jekyll-scholar
+  - jekyll-tabs
 
 # -----------------------------------------------------------------------------
 # Jekyll Get JSON
