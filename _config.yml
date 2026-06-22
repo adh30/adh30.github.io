@@ -167,7 +167,6 @@ plugins:
   - jekyll-sitemap
   - jemoji
   - jekyll-toc
-  - jekyll-jupyter-notebook
   - jekyll-scholar
   - jekyll-tabs
 
