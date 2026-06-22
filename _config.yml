@@ -168,6 +168,7 @@ plugins:
   - jemoji
   - jekyll-toc
   - jekyll-jupyter-notebook
+  - jekyll-scholar
 
 # -----------------------------------------------------------------------------
 # Jekyll Get JSON
