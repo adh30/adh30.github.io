@@ -166,6 +166,7 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jemoji
+  - jekyll-toc
 
 # -----------------------------------------------------------------------------
 # Jekyll Get JSON
