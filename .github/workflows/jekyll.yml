@@ -16,6 +16,9 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Remove stale Gemfile.lock
+        run: rm -f Gemfile.lock
+
       - uses: ruby/setup-ruby@v1
         with:
           ruby-version: "3.2"
