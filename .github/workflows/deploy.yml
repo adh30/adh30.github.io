@@ -16,8 +16,10 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Remove stale Gemfile.lock
-        run: rm -f Gemfile.lock
+      - name: Remove stale Gemfile.lock and vendor cache
+        run: |
+          rm -f Gemfile.lock
+          rm -rf vendor/bundle
 
       - uses: ruby/setup-ruby@v1
         with:
