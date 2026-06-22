@@ -2,13 +2,11 @@ source "https://rubygems.org"
 
 gem "jekyll"
 
-group :jekyll_plugins do
-  gem "jekyll-feed"
-  gem "jekyll-sitemap"
-  gem "jemoji"
-  gem "feedjira"
-  gem "httparty"
-  gem "css_parser"
-  gem "jekyll-twitter-plugin"
-  gem "jekyll-toc"
-end
+gem "jekyll-feed"
+gem "jekyll-sitemap"
+gem "jemoji"
+gem "feedjira"
+gem "httparty"
+gem "css_parser"
+gem "jekyll-twitter-plugin"
+gem "jekyll-toc"
